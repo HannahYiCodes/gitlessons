@@ -1,4 +1,4 @@
-// todo list
+// a todo list
 
 let theList = [
     {
